@@ -28,13 +28,13 @@ h1{
 }
 
 body{
-    background-color: rgba(25,35,36,255);
+    background-color: rgb(67, 23, 23);
 }
 
 .post {
     width: 750px;
     height: 650px;
-    background-color: darkolivegreen;
+    background-color: aliceblue;
     text-align: center;
     margin: auto;
     margin-top: 100px;
